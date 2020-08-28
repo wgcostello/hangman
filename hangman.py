@@ -1,4 +1,3 @@
-# Write your code here
 import random
 
 word_list = ['python', 'java', 'kotlin', 'javascript']
